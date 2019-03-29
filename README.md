@@ -5,3 +5,5 @@ Each example is a 28x28 grayscale image, associated with a label from 10 classes
 
 ## Test Accuracy Achieved : 92.20%
 Average accuracy achieved hovers between 90%, with the highest accuracy ever achieved being 94.9% by Google's ResNet.
+
+The accuracy can be further improved by using data augmentation using Image Data Generator class.
